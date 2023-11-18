@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ex04_ft_is_negative.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dancetico <dancetico@student.42.fr>        +#+  +:+       +#+        */
+/*   By: tico <tico@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/16 02:06:45 by dancetico         #+#    #+#             */
-/*   Updated: 2023/10/16 02:35:43 by dancetico        ###   ########.fr       */
+/*   Updated: 2023/11/15 01:27:33 by tico             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,6 +22,6 @@ void ft_is_negative(int n)
 
 int main ()
 {
-    ft_is_negative(-2);
+    ft_is_negative(-3);
     return 0;
 }
